@@ -1,0 +1,2 @@
+python GaitClassification.py
+pause
